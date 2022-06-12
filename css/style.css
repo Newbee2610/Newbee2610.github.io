@@ -105,8 +105,8 @@ section {
 }
 
 #services {
-  margin: 30px;
-  display: flex;
+  margin: 0vh 42vh;
+  display: inline-flex;
 }
 @media screen and (max-width: 1311px) {
   #services {
